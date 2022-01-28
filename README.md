@@ -22,8 +22,10 @@
 <p><a href="https://www.buymeacoffee.com/barbosajulian"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="barbosajulian" /></a></p><br><br>
 
 <h1></h1>
-<div style="margin-top: 16px;">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianfbarbosa&show_icons=true&locale=en&layout=compact" alt="julianfbarbosa" />
-</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=julianfbarbosa&" alt="julianfbarbosa" /></p>
+<p>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianfbarbosa&show_icons=true&locale=en&layout=compact" alt="julianfbarbosa" width="300" />
+</p>
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=julianfbarbosa&" alt="julianfbarbosa" width="350" /></p>
