@@ -7,7 +7,7 @@
 
 - 💬 You can ask me about **React, HTML, CSS, Javascript and soon Node.js**
 
-- 📫 How to reach me **barbosabjf@gmail.com**
+- 📫 For professional purposes, please contact me on **barbosabjf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +21,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/barbosajulian"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="barbosajulian" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianfbarbosa&show_icons=true&locale=en&layout=compact" alt="julianfbarbosa" /></p>
+<h1></h1>
+<div style="margin-top: 16px;">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianfbarbosa&show_icons=true&locale=en&layout=compact" alt="julianfbarbosa" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julianfbarbosa&" alt="julianfbarbosa" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=julianfbarbosa&" alt="julianfbarbosa" /></p>
