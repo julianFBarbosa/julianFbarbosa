@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianfbarbosa&label=Profile%20views&color=0e75b6&style=flat" alt="julianfbarbosa" /> </p>
 
-- 🔭 I’m currently working on [a pokedex](https://github.com/julianFBarbosa/pokedex)
-
 - 💬 You can ask me about **React, HTML, CSS, Javascript and soon Node.js**
 
 - 📫 For professional purposes, please contact me on **barbosabjf@gmail.com**
