@@ -5,7 +5,7 @@
 
 - 💬 You can ask me about **React, HTML, CSS, Javascript, Node.js and Express**
 
-- 📫 For professional purposes, please contact me on **barbosabjf@gmail.com**
+- 📫 For professional purposes, please mail me: **barbosabjf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
