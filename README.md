@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Julian Barbosa</h1>
-<h3 align="center">A passionate fullstack developer from Minas Gerais, Brazil</h3>
+<h3 align="center">A passionate fullstack engineer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianfbarbosa&label=Profile%20views&color=0e75b6&style=flat" alt="julianfbarbosa" /> </p>
 
